@@ -1,4 +1,7 @@
-# test coverage for  [mixpanel (v0.7.0)](https://github.com/mixpanel/mixpanel-node)  [![npm package](https://img.shields.io/npm/v/npmtest-mixpanel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mixpanel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mixpanel.svg)](https://travis-ci.org/npmtest/node-npmtest-mixpanel)
+# npmtest-mixpanel
+
+#### basic test coverage for  [mixpanel (v0.7.0)](https://github.com/mixpanel/mixpanel-node)  [![npm package](https://img.shields.io/npm/v/npmtest-mixpanel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mixpanel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mixpanel.svg)](https://travis-ci.org/npmtest/node-npmtest-mixpanel)
+
 #### A simple server-side API for mixpanel
 
 [![NPM](https://nodei.co/npm/mixpanel.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mixpanel)
@@ -90,7 +93,8 @@
     "scripts": {
         "test": "nodeunit"
     },
-    "version": "0.7.0"
+    "version": "0.7.0",
+    "bin": {}
 }
 ```
 
